@@ -1,5 +1,6 @@
 # GateChain Foundation Grants Program
-<img width="2001" alt="Open_Grants_Program" src="https://user-images.githubusercontent.com/87936778/126905991-e7f15299-916d-404b-9e22-f57d6a42f631.png">
+![Grants_GateChain](https://user-images.githubusercontent.com/87936778/127151639-ab26196d-77f3-425e-adf2-b5aca7acee94.jpg)
+
 
 ## 📌介绍
 我们重视每一个有创意的想法，无论您的项目是否建立在GateChain上，都有机会获得 $10K-100K开发基金。对于开发者的项目，我们不限定项目的范围和类型。因为我们深知多样性对于生态来说至关重要。
