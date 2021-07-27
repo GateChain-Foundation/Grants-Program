@@ -1,12 +1,3 @@
----
-name: pull_request_template
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: gategrants
-
----
-
 ### Application Checklist
 
 - [x] The [application template](https://github.com/w3f/Grants-Program/blob/master/applications/application-template.md) has been copied, renamed ( `project_name.md`) and updated.
