@@ -3,7 +3,7 @@
 
 
 ## 📌介绍
-我们重视每一个有创意的想法，无论您的项目是否建立在GateChain上，都有机会获得 $10K-100K开发基金。对于开发者的项目，我们不限定项目的范围和类型。因为我们深知多样性对于生态来说至关重要。
+We value every creative idea and give you the opportunity to receive $10K-$100K in development funds regardless of whether your project is built on GateChain or not. We don't limit the scope or type of projects for developers. Because we know that diversity is essential to the ecology.
 
 ## 📝指南
 **GateChain**欢迎所有专注于强大技术的项目申请资助，利用技术来增加生态系统的价值。
