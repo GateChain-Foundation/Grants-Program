@@ -2,10 +2,10 @@
 ![Grants_GateChain](https://user-images.githubusercontent.com/87936778/127151639-ab26196d-77f3-425e-adf2-b5aca7acee94.jpg)
 
 
-## 📌介绍
+## 📌 Introduction
 We value every creative idea and give you the opportunity to receive $10K-$100K in development funds regardless of whether your project is built on GateChain or not. We don't limit the scope or type of projects for developers. Because we know that diversity is essential to the ecology.
 
-## 📝指南
+## 📝 Guide
 **GateChain**欢迎所有专注于强大技术的项目申请资助，利用技术来增加生态系统的价值。
 如果您的项目满足以下要求，则更有可能获得资助：
 
