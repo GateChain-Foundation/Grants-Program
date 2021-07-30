@@ -24,8 +24,9 @@ GateChain takes the permission and rights of all teams inside and outside the ec
 
 ## 📝 Approval Process
 **We have a dedicated foundation audit team to review your application, provided you have confirmed your submission**  
-1、 Fork this repository. 
-2、 In the new branch, create a copy of (applications-template.md), or if you are using the GitHub web interface, create a new file and copy the contents of the template into the new file, making sure to **not modify the template file directly**.  
-3、 Name the new file after your project: project_name.md.  
-4、 Use your project details to fill out the template. The more information you provide, the faster the review process will be. Filling out a qualified application is easy, you can refer to the applications-template.md file. 
-5、 Once you're done, create a pull request. The pull request should only contain one new file—the Markdown file you created from the template.  
+1) Fork the current warehouse;  
+2) In the newly created branch, create a copy of (applications-template.md). Make sure not to modify the template file directly;  
+3) Name the new file after your project: project_name.md;   
+4) Fill in the template with the details of your project. The more information you provide, the faster the review process will be. To understand what a good application looks like, please refer to the following example:  
+5) After completion, create a Pull Request. The pull request should only contain a new file—the Markdown file you created from the template.  
+6) If you have submitted an application on the Grants page of other foundations, for the convenience of you and your team, you can transfer the historical submission page to the GitHub of the GateChain Grants page
