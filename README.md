@@ -6,12 +6,12 @@
 We value every creative idea and give you the opportunity to receive $10K-$100K in development funds regardless of whether your project is built on GateChain or not. We don't limit the scope or type of projects for developers. Because we know that diversity is essential to the ecology.
 
 ## 📝 Guide
-**GateChain**welcomes grant applications from all projects focused on powerful technologies that leverage technology to add value to the ecosystem
+**Gate.io** welcomes grant applications from all projects focused on powerful technologies that leverage technology to add value to the ecosystem
 Your project is more likely to be funded if it meets the following requirements.
 
 The project presents a well-researched or tested concept. If possible, you can present some previous research work that has been done.  
-1. the project team can provide a clear commitment to the technology, additional funding sources, or business model that will ensure the project will work well if funded  
-2. convincing evidence of strong expertise and technical background on the project team. We will require GitHub profiles for all team members and check their activity and coding quality. Of course, you can also provide projects on other platforms.  
+1. The project team can provide a clear commitment to the technology, additional funding sources, or business model that will ensure the project will work well if funded  
+2. Convincing evidence of strong expertise and technical background on the project team. We will require GitHub profiles for all team members and check their activity and coding quality. Of course, you can also provide projects on other platforms.  
 3. The project is technically detailed and well-defined.  
 4. The project is cutting edge to differentiate itself from other projects or to show us how to develop technologies that do not yet exist in the ecosystem.
 
