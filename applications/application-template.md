@@ -1,59 +1,27 @@
-
-
-### 1.1项目流程(您需要填写如下信息)：
-
-#### 1.1.1 	基本信息
-
-​		 您的项目命名格式：project_name.md
-
-​		 您的团队名称： Team _name
-
-​		 您的付款方式：payment_method
-
-​		 您的付款地址：Payment_address
-
-### 1.2	项目概况
-
-#### 1.2.1  项目介绍``
-
-### 1.3        项目详情
-
-#### 1.3.1	使用到的技术栈
-
-- 技术一：
-- 技术二：
-
-
-
-### 1.4	团队
-
-#### 	1.4.1团队简介：
-
-
-
-#### 	1.4.2负责人信息：
-
-- 姓名：
-- 邮箱：
-
-
-
-### 1.5	法律结构：
-
-- 代表法人：
-- 注册地址：
-
-### 1.6        团队代码仓库
-
-- 源代码存放：
-
-- <https://github.com/hugobyte>
-
-### 1.7         项目走势：
-
-- 迭代周期：
-- 迭代内容：
-- 花费成本：	
-
-### 1.8        五年展望
-
+1.1 Project process (you need to fill in the following information):  
+1.1.1 Basic information  
+ Project Name format: project_name.md
+ Team name(s): Team _name
+Payment Method: payment_method
+Payment Address: Payment_address
+1.2 Project Overview
+1.2.1 Project Introduction
+Gate.io is a large exchange that comprises multiple currencies
+1.3 Project details
+1.3.1 Technology Stack Used
+Technology 1:
+Technology 2:
+ 1.4 Team
+ 1.4.1 Team Profile:
+1.4.2 Information of Project Leader:
+Name:
+Mailbox:
+1.5 Legal structure:
+Legal Representative:
+Registered Address:
+1.6 Team Code Warehouse
+Source Code Repository:
+1.7 Project Direction:
+Iteration Cycle:
+Iteration Content:
+Cost:
