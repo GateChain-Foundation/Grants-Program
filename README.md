@@ -1,4 +1,4 @@
-# GateChain Foundation Grants Program
+# Gate Grants Program
 ![Grants_GateChain](https://user-images.githubusercontent.com/87936778/127151639-ab26196d-77f3-425e-adf2-b5aca7acee94.jpg)
 
 
