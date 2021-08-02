@@ -28,6 +28,6 @@ GateChain takes the permission and rights of all teams inside and outside the ec
 1) [Fork](https://github.com/gategrants/Grants-Program) the current warehouse.   
 2) In the newly created branch, create a copy of (applications-template.md). Make sure not to modify the template file directly.  
 3) Name the new file after your project: project_name.md.   
-4) Fill in the template with the details of your project. The more information you provide, the faster the review process will be. To understand what a good application looks like, please refer to the [example](https://github.com/GateChain-Foundation/Grants-Program/blob/main/applications/application-template.md)  
+4) Fill in the template with the details of your project. The more information you provide, the faster the review process will be. To understand what a good application looks like, please refer to the [example](https://github.com/GateChain-Foundation/Grants-Program/blob/main/applications/application-template.md).  
 5) After completion, create a Pull Request. The pull request should only contain a new file—the Markdown file you created from the template.  
 6) If you have submitted an application on the Grants page of other foundations, for the convenience of you and your team, you can transfer the historical submission page to the GitHub of the GateChain Grants page
