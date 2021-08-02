@@ -1,5 +1,6 @@
 # Gate Grants Program
-![GateChain_Logo](https://user-images.githubusercontent.com/87936778/127801502-6733241a-b1bc-43bb-8368-694d6cf058a1.png)
+![GateChain_Logo](https://user-images.githubusercontent.com/87936778/127801557-cce9604c-61bf-442e-9675-65139f24368e.png)
+
 
 
 ## 📌 Introduction
