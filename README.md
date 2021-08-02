@@ -33,5 +33,5 @@ GateChain takes the permission and rights of all teams inside and outside the ec
 6) If you have submitted an application on the Grants page of other foundations, for the convenience of you and your team, you can transfer the historical submission page to the GitHub of the GateChain Grants page
 
 
-## Milestone Delivery and Payment
-Before you submit a milestone, please make sure it complies with our milestone delivery guideline 
+## 📫 Milestone Delivery and Payment
+Before you submit a milestone, please make sure it complies with our [milestone delivery guideline](https://github.com/GateChain-Foundation/Grants-Program/tree/main/applications) 
