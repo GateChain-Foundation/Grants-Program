@@ -34,4 +34,4 @@ GateChain takes the permission and rights of all teams inside and outside the ec
 
 
 ## 📫 Milestone Delivery and Payment
-Before you submit a milestone, please make sure it complies with our [milestone delivery guideline](https://github.com/GateChain-Foundation/Grants-Program/tree/main/applications) 
+Before you submit a milestone, please make sure it complies with our [milestone delivery guideline](https://github.com/GateChain-Foundation/Grants-Program/blob/main/docs/Milestone-Delivery-Guidelines.md) 
