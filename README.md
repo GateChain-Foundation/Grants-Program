@@ -18,7 +18,7 @@ In order to promote the GateChain ecosystem’s growth & development, Gatechain 
 - Up to $100K grant based quality, vision, execution & community involvement
 - Grants will be paid in GT tokens
 
-## 📝 Buidl Together
+## 📝 Build Together
 The **Gatechain** Foundation is open to all kinds of innovative ideas, no matter how crazy they might seem. We not only welcome existing battle tested projects looking to migrate, but also novel ideas looking to hone themselves and come into light. We always believe that the decentralization, audit-free, and trustworthiness of blockchains greatly liberates developers' minds, allowing them to realize solutions that cannot be achieved in the traditional industries & workflows.
 
 Based on the current development and needs of the crypto ecosystem, the foundation has summarized the current areas that we’d like projects to focus on:
