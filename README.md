@@ -3,29 +3,60 @@
 
 
 
-## 📌 Introduction
-We value every creative idea and give you the opportunity to receive $10K-$100K in development funds regardless of whether your project is built on GateChain or not. We don't limit the scope or type of projects for developers. Because we know that diversity is essential to the ecology.
+## 📌 Summary
+Crypto technology is breaking the current Internet hegemony, and the digitization process is rapidly evolving the real world in every dimension.
 
-## 📝 Guide
-**Gate.io** welcomes grant applications from all projects focused on powerful technologies that leverage technology to add value to the ecosystem
-Your project is more likely to be funded if it meets the following requirements.
+We believe that accelerating the liquidity of information and wealth and allowing everyone to enjoy more equal and safer encrypted transaction services are the mission and belief of the blockchain, and it is also where the Gate.io team has worked hard toward and struggled for the past eight years.
 
-The project presents a well-researched or tested concept. If possible, you can present some previous research work that has been done.  
-1. The project team can provide a clear commitment to the technology, additional funding sources, or business model that will ensure the project will work well if funded  
-2. Convincing evidence of strong expertise and technical background on the project team. We will require GitHub profiles for all team members and check their activity and coding quality. Of course, you can also provide projects on other platforms.  
-3. The project is technically detailed and well-defined.  
-4. The project is cutting edge to differentiate itself from other projects or to show us how to develop technologies that do not yet exist in the ecosystem.
+## 📋 Introduction
+**GateChain** is an innovative public chain that focuses on the secure storage and value exchange of blockchain assets. With an innovative vault account and a clearing mechanism, it creatively solves the industry’s pain points such as stolen digital assets, damage and private key loss or theft.
 
-In addition, the following requirements must be met.  
- - We will not award projects that have successfully sold tokens.  
- - Any project that involves gambling, illegal transactions, money laundering or criminal activity is prohibited.  
- - Any project involving copyright or related matters is prohibited.
+We are traversing a time of never before seen prosperity for the blockchain industry. The Ethereum ecosystem is flourishing; various DeFi projects have taken up a huge piece of the market and locked it; New concepts surrounding NFTs are also constantly revolutionizing traditional industries. More people, organizations, and even countries are beginning to accept cryptocurrencies. At the same time, what initially was an element of success is now an obstacle: high fees set high entry barriers for many people who want to experience this new and promising digital era.
 
-GateChain takes the permission and rights of all teams inside and outside the ecosystem very seriously, and we expect all their work to be carefully acknowledged. Any project found to be using someone else's research without attribution or evidence that the work was not done by them will be terminated immediately. If you have any questions about how to comply with a specific license, please contact us prior to applying.
+In order to promote the GateChain ecosystem’s growth & development, Gatechain Foundation has established the Developer Grants Program, welcoming every developer to unite with us and contribute to building their ideal crypto realm 
+
+- Up to $100K grant based quality, vision, execution & community involvement
+- Grants will be paid in GT tokens
+
+## 📝 Buidl Together
+The **Gatechain** Foundation is open to all kinds of innovative ideas, no matter how crazy they might seem. We not only welcome existing battle tested projects looking to migrate, but also novel ideas looking to hone themselves and come into light. We always believe that the decentralization, audit-free, and trustworthiness of blockchains greatly liberates developers' minds, allowing them to realize solutions that cannot be achieved in the traditional industries & workflows.
+
+Based on the current development and needs of the crypto ecosystem, the foundation has summarized the current areas that we’d like projects to focus on:
+
+- Payments: Bridging the gap between merchants & crypto holders; a vital step in mainstream crypto adoption.
+- Predictions: Traditional market prediction models cannot effectively predict directions of crypto assets due to the existence of many barriers. A decentralized market prediction approach also reduces production costs and greatly improves accuracy. Such models can be applied to sports, natural phenomena. public opinion & more.
+- Loans: Compared to traditional finance, blockchain uses the transparency of a decentralized platform to bring a simpler and more effective verification method. Thus, lending platforms no longer need to worry about credit risk.
+- Assets Aggregation: Assets aggregation formed using cryptocurrency collaterals enrich the diversity of an ecosystem and also provide liquidity for the collateralized crypto assets.
+- Cross-Chain Conversion: New public chains are constantly being created. The cross-chain functionality can enable the free flow of exchange between different assets no matter the chain.
+- Stable-Coins: The current value of cryptocurrencies is extremely volatile. The existence of stable-currencies makes crypto assets easier to connect with the real world. There are three models of stable-coins: fiat collateralized, crypto-collateralized, and algorithmic.
+- Oracles: Through direct communication with Gate.io exchange, Coinmarketcap or Coingecko, will provide a reliable and timely pricing source for the crypto ecosystem.
+- Insurance: Like in the traditional financial world, insurance is a means to effectively manage risks. Thanks to the non-tamperable and transparent characteristics of the blockchain, they improve the accuracy of insurance actuary.
+- Tools: aggregation websites, public chain dashboards, wallets and smart contract deployment tools, etc.
+
+In addition, developers can also get inspiration from DAOs, NFTs, algorithmic stablecoins, Layer 2, auctions, asset management, trade/revenue aggregators, decentralized derivatives, games, lotteries, and anonymous transfers.
+
+
+## 📍 Development Guidelines-Guidelines
+- In general, the **GateChain** Grant supported projects should be open source, but exemption could be made case by case.
+- The supported projects should have the potential to positively impact the **GateChain** ecosystem.
+- The **GateChain** Foundation reserves the right to change these terms and conditions at any time without prior notice, and the right to suspend or terminate, in our sole discretion, the grant support.
+
+## 📑 Evaluation Rules
+The **GateChain** Foundation will evaluate the project from multiple dimensions and determine the amount of grants to be issued. The project will be scored mainly from the following six aspects, and a comprehensive weighted score will be obtained based on the weight.
+
+1. Design: The simplicity/beautifulness of the product UI and UE.
+2. Interactivity: The degree of interaction with other GateChain projects.
+3. Innovation: The idea of the project and the degree of novelty.
+4. Project Impact: The impact of the project on the entire ecosystem.
+5. Team Background: Team experience, development strength and team structure.
+6. Difficulty: Difficulty of development and time required for development.
+7. Application Quality: The team has a clear understanding and explanation of the project in the application.  
+Please note that the scoring rules are subjected to change at any time based on industry changes, and reserves the right without prior rule change notice.
+
 
 ## 📝 Approval Process
 **We have a dedicated foundation audit team to review your application, provided you have confirmed your submission**  
-1) [Fork](https://github.com/gategrants/Grants-Program) the current warehouse.   
+1) [Fork](https://github.com/gategrants/Grants-Program) this repository.   
 2) In the newly created branch, create a copy of (applications-template.md). Make sure not to modify the template file directly.  
 3) Name the new file after your project: project_name.md.   
 4) Fill in the template with the details of your project. The more information you provide, the faster the review process will be. To understand what a good application looks like, please refer to the [example](https://github.com/GateChain-Foundation/Grants-Program/blob/main/applications/application-template.md).  
