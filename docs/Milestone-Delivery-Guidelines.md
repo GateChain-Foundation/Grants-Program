@@ -50,7 +50,7 @@ We require that each milestone delivery includes a comprehensive test suite, con
 
 ### A step-by-step guide demonstrating how your code achieves the milestones
 
-Please provide documentation on how to install, compile, run and test the deliverable(s). Make sure to include all necessary prerequisites. Common issues while replicating test results involve, among others, undocumented dependencies, version numbers / local database setups / breaking changes in the main branch since delivery / OS- and browser-specific incompatibilities.
+Please provide documentation on how to install, compile, run and test the deliverable(s). Make sure to include all necessary prerequisites. Common issues while replicating test results involve, among others, undocumented dependencies / version numbers / local database setups / breaking changes in the main branch since delivery / OS- and browser-specific incompatibilities.
 
 Depending on the deliverable, this could include (but is not limited to)
 
