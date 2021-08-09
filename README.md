@@ -70,6 +70,7 @@ Before you submit a milestone, please make sure it complies with our [milestone 
 ## Developing Resources
 Developing Documentation: https://gatechain.io/docs/en/  
 Browser: https://explorer.gatechain.io/?lang=en_US   
+Testnet Faucet:https://explorer.gatechain.io/testnet/faucet  
 Ethereum Virtual Machine EVM: https://explorer.gatechain.io/meteora/  
 
 ## More Info
