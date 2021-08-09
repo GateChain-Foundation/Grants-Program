@@ -41,7 +41,7 @@ Unless absolutely necessary, make the documentation public as well, ideally as p
 
 ## Formatted code
 
-A codebase that is easy to read is also easy to use. We suggest adopting one style from Day 1 and adhering to it across the entire team.
+A codebase that is easy to read also easy to use. We suggest adopting one style from Day 1 and adhering to it across the entire team.
 This helps to keep the commit history clean and facilitates any reviews of the introduced changes.
 
 ## Testing Guide
