@@ -9,7 +9,7 @@ Crypto technology is breaking the current Internet hegemony, and the digitizatio
 We believe that accelerating the liquidity of information and wealth and allowing everyone to enjoy more equal and safer encrypted transaction services are the mission and belief of the blockchain, and it is also where the Gate.io team has worked hard toward and struggled for the past eight years.
 
 ## 📋 Introduction
-**GateChain** is an innovative public chain that focuses on the secure storage and value exchange of blockchain assets. With an innovative vault account and a clearing mechanism, it creatively solves the industry’s pain points such as stolen digital assets, damage and private key loss or theft.
+**Gate** is an innovative public chain that focuses on the secure storage and value exchange of blockchain assets. With an innovative vault account and a clearing mechanism, it creatively solves the industry’s pain points such as stolen digital assets, damage and private key loss or theft.
 
 We are traversing a time of never before seen prosperity for the blockchain industry. The Ethereum ecosystem is flourishing; various DeFi projects have taken up a huge piece of the market and locked it; New concepts surrounding NFTs are also constantly revolutionizing traditional industries. More people, organizations, and even countries are beginning to accept cryptocurrencies. At the same time, what initially was an element of success is now an obstacle: high fees set high entry barriers for many people who want to experience this new and promising digital era.
 
@@ -19,7 +19,7 @@ In order to promote the GateChain ecosystem’s growth & development, Gatechain 
 - Grants will be paid in GT tokens
 
 ## 📝 Build Together
-The **Gatechain** Foundation is open to all kinds of innovative ideas, no matter how crazy they might seem. We not only welcome existing battle tested projects looking to migrate, but also novel ideas looking to hone themselves and come into light. We always believe that the decentralization, audit-free, and trustworthiness of blockchains greatly liberates developers' minds, allowing them to realize solutions that cannot be achieved in the traditional industries & workflows.
+The **Gate** Foundation is open to all kinds of innovative ideas, no matter how crazy they might seem. We not only welcome existing battle tested projects looking to migrate, but also novel ideas looking to hone themselves and come into light. We always believe that the decentralization, audit-free, and trustworthiness of blockchains greatly liberates developers' minds, allowing them to realize solutions that cannot be achieved in the traditional industries & workflows.
 
 Based on the current development and needs of the crypto ecosystem, the foundation has summarized the current areas that we’d like projects to focus on:
 
@@ -36,13 +36,13 @@ Based on the current development and needs of the crypto ecosystem, the foundati
 In addition, developers can also get inspiration from DAOs, NFTs, algorithmic stablecoins, Layer 2, auctions, asset management, trade/revenue aggregators, decentralized derivatives, games, lotteries, and anonymous transfers.
 
 
-## 📍 Development Guidelines-Guidelines
-- In general, the **GateChain** Grant supported projects should be open source, but exemption could be made case by case.
+## 📍 Development Guidelines
+- In general, the **Gate** Grant supported projects should be open source, but exemption could be made case by case.
 - The supported projects should have the potential to positively impact the **GateChain** ecosystem.
-- The **GateChain** Foundation reserves the right to change these terms and conditions at any time without prior notice, and the right to suspend or terminate, in our sole discretion, the grant support.
+- The **Gate** Foundation reserves the right to change these terms and conditions at any time without prior notice, and the right to suspend or terminate, in our sole discretion, the grant support.
 
 ## 📑 Evaluation Rules
-The **GateChain** Foundation will evaluate the project from multiple dimensions and determine the amount of grants to be issued. The project will be scored mainly from the following six aspects, and a comprehensive weighted score will be obtained based on the weight.
+The **Gate** Foundation will evaluate the project from multiple dimensions and determine the amount of grants to be issued. The project will be scored mainly from the following six aspects, and a comprehensive weighted score will be obtained based on the weight.
 
 1. Design: The simplicity/beautifulness of the product UI and UE.
 2. Interactivity: The degree of interaction with other GateChain projects.
