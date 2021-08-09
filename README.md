@@ -66,3 +66,19 @@ Please note that the scoring rules are subjected to change at any time based on 
 
 ## 📫 Milestone Delivery and Payment
 Before you submit a milestone, please make sure it complies with our [milestone delivery guideline](https://github.com/GateChain-Foundation/Grants-Program/blob/main/docs/Milestone-Delivery-Guidelines.md) 
+
+## Developing Resources
+Developing Documentation: https://gatechain.io/docs/en/  
+Browser: https://explorer.gatechain.io/?lang=en_US   
+Ethereum Virtual Machine EVM: https://explorer.gatechain.io/meteora/  
+
+## More Info
+Official Website: https://gatechain.io/?lng=en  
+Twitter: https://twitter.com/gatechain_io  
+Medium: https://medium.com/@gatechain  
+Developer Email: gategrants@mail.gate.io  
+
+## Alternative Funding Opportunities
+Gate.io Labs Financing  
+Startup Fundraising Opportunities  
+Offline Developer Hackathon  
