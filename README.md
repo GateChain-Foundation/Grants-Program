@@ -38,7 +38,7 @@ In addition, developers can also get inspiration from DAOs, NFTs, algorithmic st
 
 ## 📍 Development Guidelines
 - In general, the **Gate** Grant supported projects should be open source, but exemption could be made case by case.
-- The supported projects should have the potential to positively impact the **GateChain** ecosystem.
+- The supported projects should have the potential to positively impact the **Gate** ecosystem.
 - The **Gate** Foundation reserves the right to change these terms and conditions at any time without prior notice, and the right to suspend or terminate, in our sole discretion, the grant support.
 
 ## 📑 Evaluation Rules
