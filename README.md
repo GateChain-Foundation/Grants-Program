@@ -56,7 +56,7 @@ Please note that the scoring rules are subjected to change at any time based on 
 
 ## 📝 Approval Process
 **We have a dedicated foundation audit team to review your application, provided you have confirmed your submission**  
-1) [Fork](https://github.com/gategrants/Grants-Program) this repository.   
+1) [Fork](https://github.com/GateChain-Foundation/Grants-Program/fork) this repository.   
 2) In the newly created branch, create a copy of (applications-template.md). Make sure not to modify the template file directly.  
 3) Name the new file after your project: project_name.md.   
 4) Fill in the template with the details of your project. The more information you provide, the faster the review process will be. To understand what a good application looks like, please refer to the [example](https://github.com/GateChain-Foundation/Grants-Program/blob/main/applications/application-template.md).  
