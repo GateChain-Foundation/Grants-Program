@@ -16,9 +16,9 @@ Tickether/TKTR is an NFT ticketing service for live & virtual shows allowing any
 
 **1.3.1** **Technology Stack Used**  
 
-Technology 1:  Etheruem/GateChain/Solidity/Web3
+Technology 1: Etheruem/GateChain/Solidity/Web3
 
-Technology 2:  Javascript/typescript/ruby/python 
+Technology 2: Javascript/typescript/ruby/python 
 
  **1.4** **Team**  
  
@@ -27,21 +27,21 @@ Technology 2:  Javascript/typescript/ruby/python
 
  
 **1.4.2** **Information of Project Leader:**  
-Name:  Samuel Amoako
-Mailbox:  joey_crack@live.com // 14 zinnia cl, Community 20, Tema-Greater Accra, Ghana
+Name: Samuel Amoako
+Mailbox: joey_crack@live.com // 14 zinnia cl, Community 20, Tema-Greater Accra, Ghana
 
 **1.5**   **Legal structure:**  
 Legal Representative: Samuel Amoako
 Registered Address: 14 zinnia cl, Community 20, Tema-Greater Accra, Ghana 
 
 **1.6** **Team Code Warehouse**  
-Source Code Repository:  https://github.com/Tickether
+Source Code Repository: https://github.com/Tickether
 
 **1.7**  
 	Project Direction: We have developed a few special features surrounding virtual events ticketing that will Revolutionize Event Planning & organization, providing a long-standing solution to the financial losses that plagued the industry during the global pandemic as well as tap a market for those who can never access live events for geographic reasons. Our endgame is to create a platform where event organisers not just list tickets for sale but have a ramp on access to all their event organising requirements eg location, stage equipment, etc all stored as nft assets with booking schedules. This way we reduce the barrier to entry and payment hurdles among all event organizers and their facilitators with a transparent blockchain escrow system. 
 
-	Iteration Cycle:   2-3weeks (maximum) per Iteration content
+	Iteration Cycle: 2-3weeks (maximum) per Iteration content
 
-	Iteration Content:  Business Logic Development,  UI Design, UX development, Whitepaper Development, Smart Contract Development, Program Debugging, Test Platform/Contract Deployment & Live Deployment/Launch
+	Iteration Content: Business Logic Development, UI Design, UX development, Whitepaper Development, Smart Contract Development, Program Debugging, Test Platform/Contract Deployment & Live Deployment/Launch
 
-	Cost:  $100K  
+	Cost: $100K  
