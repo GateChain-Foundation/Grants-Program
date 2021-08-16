@@ -2,7 +2,7 @@
 
 **1.1.1** **Basic information**  
  	Project Name format: ori.md  
- 	Team name(s): Syntifi 
+ 	Team name(s): Syntifi  
 	Payment Method: Bank wire  
 	Payment Address: Zürich, Switzerland 
 	
@@ -30,8 +30,8 @@ Front end:
 - Dashboard: Kibana
 
 **1.4** **Team**  
-André Bertolace: https://www.linkedin.com/in/andre-bertolace-87983426/
-Remo Stieger: https://www.linkedin.com/in/remostieger/
+- André Bertolace: https://www.linkedin.com/in/andre-bertolace-87983426/
+- Remo Stieger: https://www.linkedin.com/in/remostieger/
  
 **1.4.1** **Team Profile:**  
 
@@ -40,11 +40,11 @@ Remo Stieger: https://www.linkedin.com/in/remostieger/
 - Remo Stieger holds a Master’s degree in Banking and Finance from the University of St. Gallen (HSG). Remo has 15+ years of financial markets experience having worked in investment banking where he held various leading positions at global financial institutions. Remo has previously co-founded a technology start-up solving legal and technological challenges of inheriting digital assets leveraging a blockchain-based ecosystem. Prior being an entrepreneur, Remo has set up and then lead the Structured Solutions & Strategies Division at ISP Group; establishing the structured solutions business and infrastructure, managing Trading, Sales, Structuring and Quantitative Analytics. Remo was one of the first team members at Leonteq where he spent seven years, latterly working as an Index Exotic Derivatives Trader. During his studies he worked as a research assistant in business engineering at the University of St. Gallen (HSG).
 
 **1.4.2** **Information of Project Leader:**  
-Name:  André Bertolace
+Name:  André Bertolace  
 Mailbox: andre@syntifi.com
 
 **1.5**   **Legal structure:**  
-Legal Representative:
+Legal Representative:  
 Registered Address:  
 
 **1.6** **Team Code Warehouse**  
