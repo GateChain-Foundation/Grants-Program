@@ -12,7 +12,7 @@ Rlink is the world's first oracle that completely realizes decentralized recomme
 
 **1.2.1** **Project Introduction**
 
-In the phase1,we need to develop this oracle and test this oracle in the test chain on the polkadot ecosystem. We also will launch this oracle in the parallel chain which is compatible with EVM to serve those dapp developers.
+In the phase1,we need to develop this oracle and test this oracle in the test chain  We also will launch this oracle in the Gate chain which is compatible with EVM to serve those dapp developers.
 
 BP of this project: https://docs.qq.com/pdf/DUktkcW9iemZ0TERo
 
