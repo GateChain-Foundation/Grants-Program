@@ -30,6 +30,7 @@ Technology 2:
 **1.4.2** **Information of Project Leader:** 
 
 Name: Merky Chacon de Jesus
+
 Mailbox: mchacon@tuurno.com
 
 **1.5**   **Legal structure:**  
