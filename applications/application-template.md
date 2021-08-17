@@ -2,7 +2,7 @@
 
 **1.1.1** **Basic information**  
  	Project Name format: ori.md  
- 	Team name(s): Syntifi  
+ 	Team name(s): SyntiFi  
 	Payment Method: Tokens or cash    
 	Payment Address: Disclosed in a private chanel 
 	
