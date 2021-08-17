@@ -3,8 +3,8 @@
 **1.1.1** **Basic information**  
  	Project Name format: ori.md  
  	Team name(s): Syntifi  
-	Payment Method: Bank wire  
-	Payment Address: Zürich, Switzerland 
+	Payment Method: Tokens or cash    
+	Payment Address: Disclosed in a private chanel 
 	
 **1.2** **Project Overview**  
 Syntifi is building the next generation of financial crime prevention tool, a cross-chain risk intelligence tool. We do believe that with the great power of decentralized finance comes the great responsibility of ensuring that no financial crime, money laundering or terrorist financing is taking place. For this reason,  some crucial capabilities of our tool is made available open source. In this grant we ask for support to add yet another blockchain to our growing ecosystem.
@@ -44,14 +44,14 @@ Name:  André Bertolace
 Mailbox: andre@syntifi.com
 
 **1.5**   **Legal structure:**  
-Legal Representative:  
-Registered Address:  
+Legal Representative: On the process of incorporating  
+Registered Address: Zürich, Switzerland  
 
 **1.6** **Team Code Warehouse**  
 Source Code Repository:  https://github.com/syntifi
 
 **1.7**  
-	Project Direction:  
+	Project Direction:   
 	Iteration Cycle:   
 	Iteration Content:  
-	Cost:
+	Cost: 100k EUR
