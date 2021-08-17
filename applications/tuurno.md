@@ -22,43 +22,53 @@ For more details please see our [Roapmap](https://tuurno.com/#roadmap)
 
 **Project Name format:** tuurno.md  
 **Team name(s):** Team Tuurno  
-**Payment Method:** payment_method  
-**Payment Address:** Payment_address  
+**Payment Method:** USDT  
+**Payment Address:** 0x5090d2b9e9ec82a0577a0aa7166d04d30861592a  
 
 ## 1.2 Project Overview  
 
-Tuurno is a smart cryptocurrency-based mobile app & wallet for appointment scheduling and waiting lists in real-time. Empowered by $TURNO token.
+Tuurno is a smart cryptocurrency-based mobile app & wallet for appointment scheduling and joining waiting lists in real-time. Empowered by [$TURNO token](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a).
 
 ## 1.2.1 Project Introduction
 
-**1.3** **Project details**  
+Tuurno, as a time management tool, connects small businesses with customers through appointment scheduling and real-time waitlists.
 
-**1.3.1** **Technology Stack Used**  
+### Vision
+The vision of *tuurno* is to save your time and get rid of queues by reducing waiting times.
 
-Technology 1:  NodeJS, ExpressJS, ReactNative
+### Mission
+Put *tuurno* in millions of people's hands around the world. Becoming tuurno into a daily use tool for people.
 
-Technology 2:  Blockchain: Binance Smart Chain
+## 1.3 Project details  
 
-**1.4** **Team**  
 
-**1.4.1** **Team Profile:**  
+## 1.3.1 Technology Stack Used  
 
-**1.4.2** **Information of Project Leader:** 
+**Technology 1:**  NodeJS, ExpressJS, ReactNative
+
+**Technology 2:** Blockchain: Binance Smart Chain
+
+## 1.4 Team  
+
+## 1.4.1 Team Profile:  
+
+## 1.4.2 Information of Project Leader 
 
 Name: Merky Chacon de Jesus
 
 Mailbox: mchacon@tuurno.com
 
-**1.5**   **Legal structure:**  
+## 1.5 Legal structure  
 
 Legal Representative: 
+
 Registered Address:  
 
-**1.6** **Team Code Warehouse**  
+## 1.6 Team Code Warehouse  
 
 Source Code Repository:  
 
-**1.7**  
+## 1.7  
 
 Project Direction:   
 Iteration Cycle:   
