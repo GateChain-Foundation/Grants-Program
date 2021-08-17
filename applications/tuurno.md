@@ -1,32 +1,35 @@
-**1.1** **Project process** 
+## 1.1 Project process
+
+*Tuurno* is in process of development and we plan to launch the first version of the app for android users at the end of this year 2021.
 
 **Completed**
-Research and idea
-Problem and solution identification
-Setting the scope
-User/market research
+
+* Research and idea
+* Problem and solution identification
+* Setting the scope
+* User/market research
 
 **In process**
-UX wireframe & UI design
-Prototype
-Software architecture
-Mobile App Front-End
-Blockchain integration (BSC)
+* UX wireframe & UI design
+* Prototype
+* Software architecture
+* Mobile App Front-End
+* Blockchain integration (BSC)
 
-More details in our [Roapmap](https://tuurno.com/#roadmap)
+For more details please see our [Roapmap](https://tuurno.com/#roadmap)
 
-**1.1.1** **Basic information**
+## 1.1.1 Basic information
 
 **Project Name format:** tuurno.md  
 **Team name(s):** Team Tuurno  
 **Payment Method:** payment_method  
 **Payment Address:** Payment_address  
 
-**1.2** **Project Overview**  
+## 1.2 Project Overview  
 
 Tuurno is a smart cryptocurrency-based mobile app & wallet for appointment scheduling and waiting lists in real-time. Empowered by $TURNO token.
 
-**1.2.1** **Project Introduction**
+## 1.2.1 Project Introduction
 
 **1.3** **Project details**  
 
