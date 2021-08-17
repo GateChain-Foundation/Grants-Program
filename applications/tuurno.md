@@ -1,11 +1,13 @@
-**1.1** **Project process** (you need to fill in the following information):  
+**1.1** **Project process** 
+
+(you need to fill in the following information):  
 
 **1.1.1** **Basic information**
 
- 	Project Name format: tuurno.md  
- 	Team name(s): Team Tuurno  
-	Payment Method: payment_method  
-	Payment Address: Payment_address  
+Project Name format: tuurno.md  
+Team name(s): Team Tuurno  
+Payment Method: payment_method  
+Payment Address: Payment_address  
 	
 **1.2** **Project Overview**  
 
