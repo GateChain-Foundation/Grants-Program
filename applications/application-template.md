@@ -1,9 +1,13 @@
 **1.1** **Project process** (you need to fill in the following information):  
 
 **1.1.1** **Basic information**  
+
  	Project Name format: Playground_Protocol.md
+	
  	Team name(s): Tyler Chad Evans, Santhanam Saravanan, Travis Hall, John Fadiga, Billy Nomilly  
+	
 	Payment Method: Gate Tokens (we assume from reading) sent to our Chief Financial Officer, Santhanam Saravanan.
+	
 	Payment Address: Payment Address with GATE CHAIN - 
 	
 **1.2** **Project Overview**  
