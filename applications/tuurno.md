@@ -140,7 +140,21 @@ Put *tuurno* in millions of people's hands around the world. Becoming tuurno int
 
 ![Tuurno token distribuition](https://tuurno.com/tokendistribution.jpg)
 
-## 1.7 Official social links
+## 1.7 Team Code Warehouse
+
+Source Code Repository: https://github.com/tuurno
+
+## 1.8 
+
+**Project Direction:** User Experience Testing, Functional and Performance Testing, Security, Device & Platform Testing, Market research to identify new business partners, Expand the token utility and Huge marketing.
+
+**Iteration Cycle:** Monthly
+
+**Iteration Content:** Daily (Monday to Friday)
+
+**Cost:** $90,000
+
+## 1.9 Official social links
 
 [Twitter](https://twitter.com/tuurnoapp)
 
