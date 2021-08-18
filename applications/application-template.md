@@ -71,7 +71,7 @@ Source Code Repository:  Github
 Account: PlaygroundProtocolDevelopment
 
 **1.7**  
-	Project Direction: All research supervised by COO Santhanam Saravanan. Subcontractors responsibile for development of software will conduct their work under the direction of Project Manager and CEO, Tyler Chad Evans to fulfill proper project specifications to the utmost degree of quality and efficiency. Subcontractors responsible for platform auditing of offered services shall continuously update and take direction from John Fadiga, Lead Producer for Offered Platform Services. Travis Hall shall take direction directly from John Fadiga as Production/Service Assistant. 
+	Project Direction: All research supervised by COO Santhanam Saravanan. Subcontractors responsible for development of software will conduct their work under the direction of Project Manager and CEO, Tyler Chad Evans to fulfill proper project specifications to the utmost degree of quality and efficiency. Subcontractors responsible for platform auditing of offered services shall continuously update and take direction from John Fadiga, Lead Producer for Offered Platform Services. Travis Hall shall take direction directly from John Fadiga as Production/Service Assistant. 
 	
 	Iteration Cycle:  Agile Development - Construction Cycle
 	Iteration Content:  
