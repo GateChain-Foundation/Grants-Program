@@ -30,27 +30,42 @@ The Playground Protocol Platform will consist of a website, and downloadable app
 
 **1.3.1** **Technology Stack Used**  
 
-Technology 1:  
+We have outsourced our project specifications to multiple parties in order to get a clear understanding of the cost and work required for our project; though, we never were able to move forward to begin software development as we simply lacked the funds (which is why we submitted to Gate Grants Program). Currently we do not have a lead software engineer or any developers working exclusively with our project due to lack of funding. As the CEO & Founder, I am not a software engineer nor do I have any experience in this field. I have done much research on different tech stack possibilities for our project but I must speak with an experienced Software Engineer before we make any decisions on Tech Stacks that will definitively be used. There are just too many tech stacks for me to learn myself, having no experience in the technical side of software development. 
 
-Technology 2:  
+We have come to the conclusion that the depth of our project is quite technical and will possibly require an upwards of 8+ tech stacks for a complete launch of our platform with all components above included. For this reason, we also agree that our platform must be launched in phases so that we can start simpler, and reach toward our goal of including all components mentioned above. 
+Technology 1:  TBD
+
+Technology 2:  TBD
 
  **1.4** **Team**  
  
  **1.4.1** **Team Profile:**  
+ Tyler Chad Evans - CEO & Founder - 10+ years experience in creative industries and 3 years experience as CEO and Founder of a creative agency (Playground Entertainment) in Los Angeles that mentors independent creatives from around the world to reach new levels of expertise in creative fields. 
+ 
+ Santhanam Saravanan - COO & Co-Founder - 10+ years experience as a blockchain engineer, crypto trader, and crypto community leader - Overseeing the CREATE Token Financial Ecosystem, it's sustainability and longevity. 
+ 
+ John Fadiga - 10+ years experience in creative production and design - Overseeing all creative service systems available to our users within the platform (production, design, engineering, mentorship, etc.)
+ 
+ Travis Hall - 10+ years experience in creative production and design - Assistant to John Fadiga in oversight of creative service systems available to our users within the platform for purchase with CREATE Tokens. 
  
 **1.4.2** **Information of Project Leader:**  
-Name:  
-Mailbox:  
+Name:  Tyler Chad Evans
+Mailbox:  420 Holguin Pl, La Puente, CA 91744
 
 **1.5**   **Legal structure:**  
-Legal Representative:
-Registered Address:  
+Structure: LLC 
+Legal Representative: Outsourced for acquisition of all legal framework documentation. Contact Founder, Tyler Chad Evans as sole legal representative of business. 
+Registered Address:  420 Holguin Pl, La Puente, CA 91744
 
 **1.6** **Team Code Warehouse**  
-Source Code Repository:  
+Source Code Repository:  Github
+Account: PlaygroundProtocolDevelopment
 
 **1.7**  
-	Project Direction:   
-	Iteration Cycle:   
+	Project Direction: All research supervised by COO Santhanam Saravanan. Subcontractors responsibile for development of software will conduct their work under the direction of Project Manager and CEO, Tyler Chad Evans to fulfill proper project specifications to the utmost degree of quality and efficiency. Subcontractors responsible for platform auditing of offered services shall continuously update and take direction from John Fadiga, Lead Producer for Offered Platform Services. Travis Hall shall take direction directly from John Fadiga as Production/Service Assistant. 
+	Iteration Cycle:  Agile Development - Construction Cycle
 	Iteration Content:  
-	Cost:
+	Cost: 
+	1. 30k USD for launch of crypto token 'CREATE' Token & initial liquidity - Digital Asset for Platform.
+	2. 60k USD for complete development and launch of application for web, and mobile devices including all components mentioned above.
+	3. 10k USD for initial marketing and implementation of platform internationally prior to and after complete launch of all systems within app/platform. 
