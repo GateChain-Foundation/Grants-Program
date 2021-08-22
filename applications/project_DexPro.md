@@ -95,13 +95,15 @@ The general AMM exchange only supports the selection of the transaction currency
 
 Support display Fiat currency pricing, such as USD, CNY pricing  
 
-![、Support for exchange rate conversion, rise and fall ranking](https://raw.githubusercontent.com/Defilaboratory/Grants-Program/main/applications/assets/images/exchange.png)
+
+<img src=https://raw.githubusercontent.com/Defilaboratory/Grants-Program/main/applications/assets/images/exchange.png width=333 height=622 />
 
 4、Allow users to make limited price orders  
 
 Ordinary AMM exchanges only support instant transactions, and we introduce the development of automatic limited price orders into DEX to automatically meet eligible transactions.  
 
-![Allow users to make limited price orders](https://raw.githubusercontent.com/Defilaboratory/Grants-Program/main/applications/assets/images/exchange2.png)
+
+<img src=https://raw.githubusercontent.com/Defilaboratory/Grants-Program/main/applications/assets/images/exchange2.png width=333 height=622 />
 
 5、supports using the platform token to pay the deduction fees  
 
@@ -109,20 +111,20 @@ Ordinary AMM exchanges only support instant transactions, and we introduce the d
 
 **Defi direction:**  
 
-1、NFT pledge mining and lending  
+1、Support for LP pledge lending  
 
 In addition to the general LP staking mining function, DEX Pro will also develop the LP pledge lending function,it support the pledge LP using for borrowing. In addition to supporting the LP pledge of our platform, we also plans to support the LP pledge of other mainstream AMM exchanges, such as uniswap, pancakeswap, etc.  
 
-![NFT pledge mining and lending](https://raw.githubusercontent.com/Defilaboratory/Grants-Program/main/applications/assets/images/LP_pledge_lending_1.png) 
-![NFT pledge mining and lending](https://raw.githubusercontent.com/Defilaboratory/Grants-Program/main/applications/assets/images/LP_pledge_lending_2.png) 
-
+<img src=https://raw.githubusercontent.com/Defilaboratory/Grants-Program/main/applications/assets/images/LP_pledge_lending_1.png width=333 height=622 />
+<img src=https://raw.githubusercontent.com/Defilaboratory/Grants-Program/main/applications/assets/images/LP_pledge_lending_2.png width=333 height=622 />
 
 2、NFT pledge mining and lending (quotation model)  
 
 Support NFT pledge mining, pledge and lending, pledge and lending will use the quotation mechanism to determine the amount of lending.  
 
-![NFT pledge mining and lending](https://raw.githubusercontent.com/Defilaboratory/Grants-Program/main/applications/assets/images/NFT_pledge_mining_and_lending_1.png) 
-![NFT pledge mining and lending](https://raw.githubusercontent.com/Defilaboratory/Grants-Program/main/applications/assets/images/NFT_pledge_mining_and_lending_2.png) 
+ 
+<img src=https://raw.githubusercontent.com/Defilaboratory/Grants-Program/main/applications/assets/images/NFT_pledge_mining_and_lending_1.png width=333 height=622 />
+<img src=https://raw.githubusercontent.com/Defilaboratory/Grants-Program/main/applications/assets/images/NFT_pledge_mining_and_lending_2.png width=333 height=622 />
 
 3、Add the reward algorithm based on the change of the pledge time  
 
