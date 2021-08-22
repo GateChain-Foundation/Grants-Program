@@ -13,16 +13,16 @@ We will support as many more mainstream blockchain as Ethereum, BSC, HECO, gatec
 
 Project Phase:  
 ● has been completed:  
-Technical accumulation and market research of the project are completed
-Some functional demo development was completed
-Accumulated intention customers and community
+Technical accumulation and market research of the project are completed  
+Some functional demo development was completed  
+Accumulated intention customers and community  
 
 ● is in progress:  
-Seeking seed round financing
-Improve the project design
-Improve the project prototype and UI design
-Design the project Token model
-Improve the development architecture design
+Seeking seed round financing  
+Improve the project design  
+Improve the project prototype and UI design  
+Design the project Token model  
+Improve the development architecture design  
 
 
 **1.2.1** **Project Introduction**  
@@ -103,7 +103,7 @@ Support display Fiat currency pricing, such as USD, CNY pricing
 Ordinary AMM exchanges only support instant transactions, and we introduce the development of automatic limited price orders into DEX to automatically meet eligible transactions.  
 
 
-<img src=https://raw.githubusercontent.com/Defilaboratory/Grants-Program/main/applications/assets/images/exchange2.png width=333 height=622 />
+<img src=https://raw.githubusercontent.com/Defilaboratory/Grants-Program/main/applications/assets/images/limit_price_orders.png width=333 height=622 />
 
 5、supports using the platform token to pay the deduction fees  
 
