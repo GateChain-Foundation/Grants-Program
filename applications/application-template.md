@@ -4,9 +4,9 @@
 
  	Project Name format: Playground_Protocol.md
 	
- 	Team name(s): Tyler Chad Evans, Santhanam Saravanan, Travis Hall, John Fadiga, Billy Nomilly  
+ 	Team name(s): Tyler Chad Evans, Santhanam Saravanan, Travis Hall, John Fadiga, Hayk Hakobyan, Joseph George (Sunday Mobility Tech Solutions)  
 	
-	Payment Method: Gate Tokens (we assume from reading) sent to our Chief Financial Officer, Santhanam Saravanan.
+	Payment Method: Gate Tokens (we assume from reading) sent to CEO, Tyler Evans.
 	
 	Payment Address: Payment Address with GATE CHAIN - 
 	
@@ -30,7 +30,7 @@ The Playground Protocol Platform will consist of a website, and downloadable app
 
 **1.3.1** **Technology Stack Used**  
 
-We have outsourced our project specifications to multiple parties in order to get a clear understanding of the cost and work required for our project; though, we never were able to move forward to begin software development as we simply lacked the funds (which is why we submitted to Gate Grants Program). Currently we do not have a lead software engineer or any developers working exclusively with our project due to lack of funding. As the CEO & Founder, I am not a software engineer nor do I have any experience in this field. I have done much research on different tech stack possibilities for our project but I must speak with an experienced Software Engineer before we make any decisions on Tech Stacks that will definitively be used. There are just too many tech stacks for me to learn myself, having no experience in the technical side of software development. 
+We have outsourced our project specifications to multiple parties in order to get a clear understanding of the cost and work required for our project. Currently, our lead software engineer is Joseph George and our development team is Sunday Mobility. Sunday Mobility is a 10 year, End-To-End IT Development Team that has worked for many fortune 500 companies as well as Silicon Valley Startups with clients such as PayPal, ICICI Bank, and more. Their technology solutions hosts over 50 Million Users globally having served over 140 clients, and more than 250 projects. 
 
 We have come to the conclusion that the depth of our project is quite technical and will possibly require an upwards of 8+ tech stacks for a complete launch of our platform with all components above included. For this reason, we also agree that our platform must be launched in phases so that we can start simpler, and reach toward our goal of including all components mentioned above. 
 
@@ -50,6 +50,10 @@ Technology 2:  TBD
  
  Travis Hall - 10+ years experience in creative production and design - Assistant to John Fadiga in oversight of creative service systems available to our users within the platform for purchase with CREATE Tokens. 
  
+ Hayk Hakobyan - 10+ years experience in software development - Lead Software Consultant.
+ 
+ Sunday Mobility Tech Solutions - 10+ years experience in technology solutions - Based out of Mumbai, India - 5+ man software development team that has worked to provide solutions for Fortune 500 Companies as well as Silicon Valley Startups - 50+ Million Users - 140+ Clients - 250+ Projects globally - Overseeing complete development of our platform for iOS, Android, and Web Portal Accessibility. 
+ 
 **1.4.2** **Information of Project Leader:**  
 
 Name:  Tyler Chad Evans
@@ -59,6 +63,8 @@ Mailbox:  420 Holguin Pl, La Puente, CA 91744
 **1.5**   **Legal structure:**  
 
 Structure: LLC 
+
+Business Name: Playground Entertainment LLC 
 
 Legal Representative: Outsourced for acquisition of all legal framework documentation. Contact Founder, Tyler Chad Evans as sole legal representative of business. 
 
@@ -71,11 +77,11 @@ Source Code Repository:  Github
 Account: PlaygroundProtocolDevelopment
 
 **1.7**  
-	Project Direction: All research supervised by COO Santhanam Saravanan. Subcontractors responsible for development of software will conduct their work under the direction of Project Manager and CEO, Tyler Chad Evans to fulfill proper project specifications to the utmost degree of quality and efficiency. Subcontractors responsible for platform auditing of offered services shall continuously update and take direction from John Fadiga, Lead Producer for Offered Platform Services. Travis Hall shall take direction directly from John Fadiga as Production/Service Assistant. 
+	Project Direction: All research supervised by COO Santhanam Saravanan. Sunday Mobility Tech Solutions (responsible for development of all software) will conduct their work under the direction of Project Manager and CEO, Tyler Chad Evans as well as Lead Software Consultant, Hayk Hakobyan, to fulfill proper project specifications to the utmost degree of quality and efficiency. Subcontractors responsible for platform/rewards auditing of offered services shall continuously update and take direction from John Fadiga, Lead Producer for Offered Platform Services. Travis Hall shall take direction directly from John Fadiga as Production/Service Assistant. 
 	
 	Iteration Cycle:  Agile Development - Construction Cycle
 	Iteration Content:  
 	Cost: 
-	1. 30k USD for launch of crypto token 'CREATE' Token & initial liquidity - Digital Asset for Platform.
-	2. 60k USD for complete development and launch of application for web, and mobile devices including all components mentioned above.
+	1. 30k USD for launch of crypto token 'CREATE' Token & initial liquidity - Digital Asset for Platform to be launched on Gate Exchange.
+	2. 60k USD for complete development, launch, and maintenance of application for web, and mobile devices including all components mentioned above.
 	3. 10k USD for initial marketing and implementation of platform internationally prior to and after complete launch of all systems within app/platform. 
