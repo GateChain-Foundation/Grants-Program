@@ -4,11 +4,11 @@
 
  	Project Name format: Playground_Protocol.md
 	
- 	Team name(s): Tyler Chad Evans, Santhanam Saravanan, Travis Hall, John Fadiga, Hayk Hakobyan, Joseph George (Sunday Mobility Tech Solutions)  
+ 	Team name(s): Tyler Chad Evans, Santhanam Saravanan, Travis Hall, John Fadiga, Hayk Hakobyan, Joseph George (Do Points Marketing Services Pvt. Ltd. (Sunday Mobility))  
 	
 	Payment Method: Gate Tokens (we assume from reading) sent to CEO, Tyler Evans.
 	
-	Payment Address: Payment Address with GATE CHAIN - 
+	Payment Address: Payment Address with GATE CHAIN - gt117a2fj2kyf9tte4tt5dxamg4xqp4z28ngnhdrrzuusmq5sa9ae7s7d2det2svaeaqc6f3rs
 	
 **1.2** **Project Overview**  
 
@@ -34,9 +34,18 @@ We have outsourced our project specifications to multiple parties in order to ge
 
 We have come to the conclusion that the depth of our project is quite technical and will possibly require an upwards of 8+ tech stacks for a complete launch of our platform with all components above included. For this reason, we also agree that our platform must be launched in phases so that we can start simpler, and reach toward our goal of including all components mentioned above. 
 
-Technology 1:  TBD
+Technology Option 1:
+UX/UI Designs – Adobe XD
+Hybrid App (Web, Mobile App) – Angular & Cordova
+Backend – PHP
+Deployment on – AWS / Azure
 
-Technology 2:  TBD
+Technology Option 2:
+UX/UI Designs – Adobe XD
+
+Hybrid App (Web, Mobile App) – Angular & Cordova
+Backend – .Net
+Deployment on – AWS / Azure
 
  **1.4** **Team**  
  
@@ -80,8 +89,47 @@ Account: PlaygroundProtocolDevelopment
 	Project Direction: All research supervised by COO Santhanam Saravanan. Sunday Mobility Tech Solutions (responsible for development of all software) will conduct their work under the direction of Project Manager and CEO, Tyler Chad Evans as well as Lead Software Consultant, Hayk Hakobyan, to fulfill proper project specifications to the utmost degree of quality and efficiency. Subcontractors responsible for platform/rewards auditing of offered services shall continuously update and take direction from John Fadiga, Lead Producer for Offered Platform Services. Travis Hall shall take direction directly from John Fadiga as Production/Service Assistant. 
 	
 	Iteration Cycle:  Agile Development - Construction Cycle
-	Iteration Content:  
-	Cost: 
+	Scrum methodology will be used
+1. Product Backlog/Features
+a. Final approved set of functionalities will be considered as a Product backlog
+
+2. Sprint Planning
+a. Sprint Planning Meeting would be done by the Product Owner (Playground Entertainment)
+& Development Team (Sunday Mobility) for:
+i. Clarifying any further product related queries,
+ii. Discussing best possible way things can be done and accomplished along with
+defining the Sprint Backlog Items
+
+b. Sprint Duration – This Can vary from 2 to 4 weeks depending on the Sprint Backlog Items
+and complexity of the items
+
+3. Daily Scrum
+a. Daily Scrum meetings would be conducted between the Scrum Master and Development
+Team for:
+i. Syncing on work done from last scrum call and deciding on the work to be done till
+the next Scrum call
+
+4. Sprint Review
+
+a. At the end of each Sprint all work done during the entire Sprint will be demonstrated to the
+stakeholders who can give Feedback post reviewing the work done
+
+5. Sprint Retrospective
+a. Each Sprint will end with this step, its sole purpose being:
+i. To identify and address the things that the team is doing well that they should keep
+doing
+ii. Things the team should start doing in order to improve
+iii. Things that are keeping them from performing at their best that they should stop
+doing
+
+6. Iterations
+a. Pending item if any at end of each Sprint can be moved to the Upcoming Sprint
+7. Plan – Execute – Sleep - Repeat
+a. The same cycle would again be followed starting from Sprint Planning to Sprint
+Retrospective till the completion of the Project i.e., till all items in the Product Backlog are
+completed
+
+	Cost: 100k
 	1. 30k USD for launch of crypto token 'CREATE' Token & initial liquidity - Digital Asset for Platform to be launched on Gate Exchange.
 	2. 60k USD for complete development, launch, and maintenance of application for web, and mobile devices including all components mentioned above.
 	3. 10k USD for initial marketing and implementation of platform internationally prior to and after complete launch of all systems within app/platform. 
