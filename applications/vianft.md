@@ -1,7 +1,8 @@
 **1.1** **Project process** (you need to fill in the following information):  
 
 **1.1.1** **Basic information**  
- 	Project Name format: Via NFT Learn to Earn
+ 	
+	Project Name format: Via NFT Learn to Earn
 	
  	Team name(s): Jian Costa and Anderson Rossoni 
 	
@@ -12,7 +13,8 @@
 **1.2** **Project Overview**  
 
 **1.2.1** **Project Introduction**
-The goal of the project is to create a Learn To Earn Platform where we can provide educational content about NFTs and Metaverse.
+	
+	The goal of the project is to create a Learn To Earn Platform where we can provide educational content about NFTs and Metaverse.
 With this platform we want to be the main way for people to learn about the new world of NFTs. Beside that, we want to have a social goal of educating people in poverty through ONGs and social associations - companies can donate money to our pool and we distribute it through the educational courses.
 This also can be used on the Gate website as a good way to bring more people to the crypto universe - they learn, earn and can use the money on Gate platform.
 
