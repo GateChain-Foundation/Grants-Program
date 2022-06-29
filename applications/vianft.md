@@ -2,8 +2,11 @@
 
 **1.1.1** **Basic information**  
  	Project Name format: Via NFT Learn to Earn
+	
  	Team name(s): Jian Costa and Anderson Rossoni 
+	
 	Payment Method: USDC - Polygon
+	
 	Payment Address: 0x7c36451CE229c63db435D63967C27F9823769475  
 	
 **1.2** **Project Overview**  
